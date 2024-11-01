@@ -1,0 +1,3 @@
+/Users/sutommy/CLionProjects/bubbleSorting/cmake-build-debug/CMakeFiles/bubbleSorting.dir
+/Users/sutommy/CLionProjects/bubbleSorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sutommy/CLionProjects/bubbleSorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
