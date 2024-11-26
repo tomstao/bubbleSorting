@@ -20,7 +20,7 @@ int main()
         int* array = new int[size_array];
         for (int i = 0; i < size_array; i++)
         {
-            array[i] = rand() % 100 + 1;
+            array[i] = rand() % 100;
         }
         for(int j = 0; j < size_array; j++)
         {
